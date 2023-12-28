@@ -2,7 +2,6 @@ name: did_you_mean
 description: a dart port of didyoumean.
 version: 0.0.1
 homepage: https://github.com/cbbfcd/did_you_mean
-author: 波比小金刚
 
 environment:
   sdk: '>=3.0.0'
