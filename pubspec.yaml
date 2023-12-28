@@ -1,7 +1,7 @@
-name: dart_lib_starter
-description: Super simple dart lib starter to keep me happy.
+name: did_you_mean
+description: a dart port of didyoumean.
 version: 0.0.1
-homepage: https://github.com/cbbfcd/dart-lib-starter
+homepage: https://github.com/cbbfcd/did_you_mean
 
 environment:
   sdk: '>=3.0.0'

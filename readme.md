@@ -1,4 +1,5 @@
-# dart-lib-starter
+# did_you_mean
 
-> simple dart lib starter to keep me happy.
+> a dart port of [didyoumean](https://www.npmjs.com/package/didyoumean). but via levenshtein algorithm.
 
+# usage
