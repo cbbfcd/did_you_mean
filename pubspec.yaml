@@ -1,6 +1,6 @@
 name: did_you_mean
 description: a dart port of didyoumean.
-version: 0.0.1
+version: 1.0.0
 homepage: https://github.com/cbbfcd/did_you_mean
 
 environment:
