@@ -62,7 +62,11 @@ int levenshtein({required String a, required String b}) {
     V.add(++i);
   }
 
-  var current = 0, above, left, chr, j;
+  var current = 0;
+  int j;
+  int left;
+  int above;
+  int chr;
 
   for (i = 0; i < la; i++) {
     left = i;

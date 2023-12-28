@@ -16,4 +16,4 @@ print('the best matched is $matched'); // the best matched is resumé
 
 # License
 
-MIT.
+MIT License.

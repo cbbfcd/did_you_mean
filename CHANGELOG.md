@@ -1,3 +1,7 @@
-# 0.0.1
+# 1.0.1
 
-> bump v0.0.1, welcome to use!
+- add strict analysis options from dart-lang core team.
+
+# 1.0.0
+
+- first version publish, welcome to use! 🚀
